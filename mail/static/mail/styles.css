@@ -1,0 +1,19 @@
+textarea {
+    min-height: 400px;
+}
+
+#sentdiv {
+    padding: 10px;
+    margin-bottom:5px;
+    border: 1px solid teal;
+}
+.inboxdiv {
+    padding: 10px;
+    margin-bottom:5px;
+    border: 1px solid lightsteelblue;
+}
+.archivediv {
+    padding: 10px;
+    margin-bottom:5px;
+    border: 1px solid lightskyblue;
+}
